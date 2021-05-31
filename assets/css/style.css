@@ -612,7 +612,7 @@ p.mt-7 {
      margin-bottom: 8px;
 }
 .clients {
-    background-color: #fb8b24;
+    
 }
  .clients .card-body {
     /* box-shadow: 0px 0px 10px -32px rgb(0 0 0 / 14%);
@@ -655,12 +655,11 @@ p.mt-7 {
 img.img-responsive.img-rounded {
     border-radius: 12px;
 }
- .card {
+ .clients .card {
      box-shadow: 0px 0px 10px -32px rgb(0 0 0 / 14%);
      transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
      padding: 20px 20px 20px 20px;
      border: none;
-	 background-color: #fb8b24;
 }
  h5.card-title {
      text-align: center;
@@ -760,7 +759,7 @@ img.img-responsive.img-rounded {
      text-align: center;
      padding: 40px 20px;
      background: #fff;
-     margin-bottom: 50px;
+     margin-bottom: 0;
      border-radius: 18px;
      webkit-animation-delay: 0.8s;
     animation-delay: 0.8s;
@@ -997,10 +996,10 @@ img.img-responsive.img-rounded {
      background: #FB8B24;
      border-top: 1px solid #FB8B24;
      border-bottom: 1px solid #FB8B24;
-     padding: 30px 0 30px 0;
+     padding: 70px 0;
 }
  #footer .footer-top .footer-info {
-     margin-bottom: 30px;
+     margin-bottom: 0;
 }
  #footer .footer-top .footer-info h3 {
      font-size: 18px;
@@ -1045,7 +1044,7 @@ img.img-responsive.img-rounded {
      letter-spacing: 0.3px;
 }
  #footer .footer-top .footer-links {
-     margin-bottom: 30px;
+     margin-bottom: 0;
 }
  #footer .footer-top .footer-links ul {
      list-style: none;
@@ -1081,7 +1080,7 @@ img.img-responsive.img-rounded {
      color: #db3155;
 }
  #footer .footer-top .footer-contact {
-     margin-bottom: 10px;
+     margin-bottom: 0;
 }
  #footer .footer-top .footer-contact p {
     color: #ffffff;
@@ -1135,12 +1134,12 @@ img.img-responsive.img-rounded {
     outline: none;
     text-decoration: none;
     text-align: center;
-    color: #ffffff;
+    color: #0F0F0F;
     font-family: "Nunito", Sans-serif;
     font-size: 36px;
     font-weight: 800;
      padding-bottom: 45px;
-    background: url(../img/divider-white.png) no-repeat bottom center;
+    background: url(../img/divider.png) no-repeat bottom center;
 }
 
 .About .section-title{
@@ -1152,6 +1151,10 @@ img.img-responsive.img-rounded {
     background: url(../img/divider.png) no-repeat bottom left;
 }
 
+.more .section-title .text_sty{
+    color: #ffffff;
+}
+
 .footer-logo-block{
     width: auto;
     display: inline-block;
@@ -1159,7 +1162,7 @@ img.img-responsive.img-rounded {
     border: none;
     outline: none;
     text-decoration: none;
-    margin-bottom: 8px;
+    margin-bottom: 15px;
     padding: 8px;
     background-color: #ffffff;
 }
@@ -1178,4 +1181,13 @@ img.img-responsive.img-rounded {
 
  @media (max-width: 767px) {
 
+ }
+
+ .home-parallax-banner{
+    background-image: url("../img/child-banner.jpg");
+    min-height: 300px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
  }
