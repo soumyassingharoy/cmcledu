@@ -126,7 +126,7 @@
  .nav-menu a {
      display: block;
      position: relative;
-     color: #000000;
+     color: #0F0F0F;
      padding: 30px 13px;
      transition: 0.3s;
      font-family: "Nunito", Sans-serif;
@@ -252,13 +252,13 @@
  .mobile-nav a {
      display: block;
      position: relative;
-     color: #000000;
+     color: #0F0F0F;
      padding: 10px 20px;
      font-weight: 500;
      outline: none;
 }
  .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-     color: #000000;
+     color: #0F0F0F;
      text-decoration: none;
 }
  .mobile-nav .drop-down > a:after {
@@ -464,7 +464,7 @@
     animation-name: fadeIn;
  }
  section {
-    padding: 50px 0;
+    padding: 70px 0;
 }
  .section-bg {
      background-color: white;
@@ -477,33 +477,23 @@
     margin-bottom: 20px;
     padding-bottom: 20px;
     position: relative;
-    color: #000000;
+    color: #0F0F0F;
     font-family: "Nunito", Sans-serif;
     font-size: 36px;
     font-weight: 800;
-}
- .section-title h2::after {
-     content: '';
-     position: absolute;
-     display: block;
-     width: 50px;
-     height: 3px;
-     background: #db3155;
-     bottom: 0;
-     left: calc(50% - 25px);
 }
  .section-title p {
      margin-bottom: 0;
 }
  h2.text_sty {
-     color: #000000;
+     color: #0F0F0F;
      font-family: "Nunito", Sans-serif;
      font-size: 36px;
      font-weight: 800;
 }
  .btn-get-started-yello {
     font-family: "Nunito", Sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.7px;
     color: #FFFFFF;
@@ -520,29 +510,65 @@
      color: #fff;
 }
  section.About p {
-    color: #383838;
-    font-family: "Nunito", Sans-serif;
-    font-size: 16px;
+    color: #5F5F5F;
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    line-height: 1.7em;
+    padding-right: 30px;
+    font-weight: 400;
 }
  .icon-box-1 {
      background-color: #DB3056;
      border-radius: 30px 30px 30px 30px;
      transition: background 0.3s, border 0.7s, border-radius 0.7s, box-shadow 0.7s;
-     padding: 30px 30px 30px 30px;
+     padding: 25px;
      text-align: center;
      border: 5px solid #fff;
-     min-height: 450px;
 }
+
  .icon-box-1 h3 {
      font-family: "Nunito", Sans-serif;
      font-size: 35px;
-     font-weight: 700;
+     font-weight: 800;
      color: #fff;
 	 margin-bottom: 30px;
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
 }
+
+.icon-box-1 .text-block {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    height: 250px;
+    overflow: auto;
+    margin-bottom: 15px;
+}
+
+.icon-box-1 .read-more{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+
  .icon-box-1 p {
     color: #FFFFFF;
-    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    line-height: 1.7em;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
 }
  .icon-box-1:hover {
      border: 5px solid #fb8b25;
@@ -583,11 +609,12 @@ p.mt-7 {
  p.box_wrap {
      background-color: #218cac;
      padding: 5px;
+     margin-bottom: 8px;
 }
 .clients {
     background-color: #fb8b24;
 }
- .card-body {
+ .clients .card-body {
     /* box-shadow: 0px 0px 10px -32px rgb(0 0 0 / 14%);
      */
      transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -595,6 +622,7 @@ p.mt-7 {
      text-align: center;
      padding-bottom: 45px;
 	 background-color: #fff;
+     border-radius: 0 0 8px 8px;
 }
 .ab-shape1.position-absolute {
     margin: 0px 0px 0px 0px;
@@ -636,17 +664,28 @@ img.img-responsive.img-rounded {
 }
  h5.card-title {
      text-align: center;
-     color: #333333E3;
+     color: #0F0F0F;
      font-family: "Nunito", Sans-serif;
      font-size: 28px;
-     font-weight: 700;
+     font-weight: 800;
      letter-spacing: 0.3px;
+     padding: 0;
+     margin: 0;
+     padding-bottom: 15px;
 }
- p.card-text {
-    color: #000000;
-    font-family: "Nunito", Sans-serif;
-    font-size: 16px;
+ .clients p.card-text {
     margin-bottom: 2.5rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    min-height: 72px;
+    color: #5F5F5F;
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    line-height: 1.7em;
+    font-weight: 400;
 }
  img.img-responsive {
      max-width: 100%;
@@ -669,7 +708,7 @@ img.img-responsive.img-rounded {
 }
  .more {
      width: 100%;
-     padding: 80px 0 265px;
+     padding: 80px 0 180px;
      position: relative;
      background-image: url(../img/handson.jpg);
      background-origin: initial;
@@ -702,33 +741,68 @@ img.img-responsive.img-rounded {
     font-weight: 800;
 }
  section.more p {
-    font-size: 16px;
-    color: #fff;
+    color: #ffffff;
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    line-height: 1.7em;
+    padding-right: 30px;
+    font-weight: 400;
     text-align: center;
-    font-family: "Nunito", Sans-serif;
 }
  section.link {
      position: relative;
      top: -90px;
      padding: 0px;
 }
- .box {
+ .link .box {
      transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
      box-shadow: 0px 4px 8px 0px rgb(0 0 0 / 10%);
      text-align: center;
-     padding: 50px 50px;
+     padding: 40px 20px;
      background: #fff;
      margin-bottom: 50px;
+     border-radius: 18px;
+     webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    transition: 0.5s;
 }
+
  .box i {
      font-size: 40px;
      color: #fff;
+     webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    transition: 0.5s;
 }
  .box h4 {
      padding-top: 30px;
      font-family: "Nunito", Sans-serif;
-     color: #000;
+     color: #0F0F0F;
+     font-weight: 800;
+     webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    transition: 0.5s;
 }
+
+ .link .box:hover{
+    text-decoration: none;
+    box-shadow: 0px 4px 8px 0px rgb(0 0 0 / 30%);
+    background: #db3155;
+ }
+
+  .link .box:hover h4{
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .link .box:hover .icon-fnt{
+    text-decoration: none;
+    background: #ffffff;
+  }
+  .link .box:hover i {
+     font-size: 40px;
+     color: #db3155;
+}
+
 
 .icon-fnt {
     width: 80px;
@@ -893,7 +967,7 @@ img.img-responsive.img-rounded {
  .footer-contact P i {
      color: #DB3056;
      font-size: 20px;
-     padding-right: 20px;
+     padding-right: 10px;
 }
  #footer .footer-newsletter form input[type="email"] {
      border: 0;
@@ -984,9 +1058,14 @@ img.img-responsive.img-rounded {
      line-height: 1;
 }
  #footer .footer-top .footer-links ul li {
-     padding: 10px 0;
+     padding: 5px 0;
      display: flex;
      align-items: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    line-height: 1.7em;
+    padding-right: 30px;
+    font-weight: 600;
 }
  #footer .footer-top .footer-links ul li:first-child {
      padding-top: 0;
@@ -1001,10 +1080,18 @@ img.img-responsive.img-rounded {
      color: #db3155;
 }
  #footer .footer-top .footer-contact {
-     margin-bottom: 30px;
+     margin-bottom: 10px;
 }
  #footer .footer-top .footer-contact p {
-     line-height: 26px;
+    color: #ffffff;
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    line-height: 1.7em;
+    padding-right: 0;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 5px;
 }
  #footer .copyright {
     text-align: center;
@@ -1018,3 +1105,48 @@ img.img-responsive.img-rounded {
      color: #fff;
 }
  
+
+ section.faq{
+    padding-top: 0;
+}
+.section-title{
+    width: 100%;
+    text-align: center;
+    padding: 0 0 25px 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Nunito", Sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+}
+.section-title .text_sty{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Nunito", Sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+     padding-bottom: 45px;
+    background: url(../img/divider-white.png) no-repeat bottom center;
+}
+
+.About .section-title{
+    text-align: left;
+}
+.About .section-title .text_sty{
+    text-align: left;
+    color: #0F0F0F;
+    background: url(../img/divider.png) no-repeat bottom left;
+}
+
+
+ @media (max-width: 767px) {
+
+ }
