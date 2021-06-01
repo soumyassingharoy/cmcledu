@@ -14,6 +14,12 @@
      font-family: "Nunito", Sans-serif;
 }
 /*-------------------------------------------------------------- # Back to top button --------------------------------------------------------------*/
+ @media (min-width: 1200px){
+    .container{
+        max-width: 1200px;
+    }
+ }
+
  .back-to-top {
      position: fixed;
      display: none;
@@ -214,7 +220,7 @@
 /* Mobile Navigation */
  .mobile-nav-toggle {
      position: fixed;
-     right: 15px;
+     right: 25px;
      top: 20px;
      z-index: 9998;
      border: 0;
@@ -911,6 +917,400 @@ img.img-responsive.img-rounded {
     z-index: 99;
     position: relative;
 }
+.contact .info-box {
+  color: #444444;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 20px 0 30px 0;
+}
+
+.contact .info-box i {
+  font-size: 32px;
+  color: #db3155;
+  border-radius: 50%;
+  padding: 8px;
+  border: 2px dotted #fef5f4;
+}
+
+.contact .info-box h3 {
+    font-size: 20px;
+    color: #000000;
+    font-weight: 700;
+    margin: 10px 0;
+    font-family: "Nunito", Sans-serif;
+}
+
+.contact .info-box p {
+  padding: 0;
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.contact .php-email-form {
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 30px;
+}
+
+.contact .php-email-form .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.contact .php-email-form .error-message {
+  display: none;
+  color: #fff;
+  background: #ed3c0d;
+  text-align: left;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .error-message br + br {
+  margin-top: 25px;
+}
+
+.contact .php-email-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .loading {
+  display: none;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+.contact .php-email-form .loading:before {
+  content: "";
+  display: inline-block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  margin: 0 10px -6px 0;
+  border: 3px solid #18d26e;
+  border-top-color: #eee;
+  -webkit-animation: animate-loading 1s linear infinite;
+  animation: animate-loading 1s linear infinite;
+}
+
+.contact .php-email-form input, .contact .php-email-form textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+}
+
+.contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
+  background-color: #e96b56;
+}
+
+.contact .php-email-form input {
+  padding: 20px 15px;
+}
+
+.contact .php-email-form textarea {
+  padding: 12px 15px;
+}
+
+.contact .php-email-form button[type="submit"] {
+    background: #fb8b24;
+    border: 0;
+    border-radius: 50px;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+}
+
+.contact .php-email-form button[type="submit"]:hover {
+  background: #db3155;
+}
+
+@-webkit-keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.breadcrumbs {
+    padding: 200px 0 0px 0;
+    background: #f7f7f7;
+    border-bottom: 1px solid #ededed;
+    margin-bottom: 40px;
+    background-image: url(../img/group-of-school-kids-raising-hands-in-classroom.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.breadcrumbs h2 {
+    margin: 0px 0px 0px 0px;
+    padding: 20px 140px 20px 140px;
+    background-color: transparent;
+    background-image: linear-gradient( 
+180deg
+ , #DB3056 52%, #EA567B 100%);
+    border-radius: 100px 100px 0px 0px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Nunito", Sans-serif;
+    font-size: 62px;
+    font-weight: 800;
+    text-transform: capitalize;
+    width: max-content;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0 0 5px 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+.breadcrumbs ol li + li {
+  padding-left: 10px;
+}
+
+.breadcrumbs ol li + li::before {
+  display: inline-block;
+  padding-right: 10px;
+  color: #6e6e6e;
+  content: "/";
+}
+.portfolio .portfolio-item {
+  margin-bottom: 30px;
+}
+
+.portfolio #portfolio-flters {
+  padding: 0;
+  margin: 0 auto 25px auto;
+  list-style: none;
+  text-align: center;
+  background: white;
+  border-radius: 50px;
+  padding: 2px 15px;
+}
+
+.portfolio #portfolio-flters li {
+  cursor: pointer;
+  display: inline-block;
+  padding: 8px 20px 12px 20px;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1;
+  color: #444444;
+  margin: 0 4px 8px 4px;
+  transition: all ease-in-out 0.3s;
+  border-radius: 50px;
+  background: #f2f2f2;
+}
+
+.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+  background: #e96b56;
+  color: #fff;
+}
+
+.portfolio #portfolio-flters li:last-child {
+  margin-right: 0;
+}
+
+.portfolio .portfolio-wrap {
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  background: rgba(84, 84, 84, 0.6);
+
+box-shadow: 0px 4px 8px 0px rgb(0 0 0 / 10%);
+text-align: center;
+border-radius: 12px;
+webkit-animation-delay: 0.8s;
+animation-delay: 0.8s;
+transition: 0.5s;
+
+
+}
+
+.portfolio .portfolio-wrap::before {
+  content: "";
+  background: rgba(84, 84, 84, 0.6);
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  top: 30px;
+  bottom: 30px;
+  transition: all ease-in-out 0.3s;
+  z-index: 2;
+  opacity: 0;
+}
+
+.portfolio .portfolio-wrap .portfolio-info {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 3;
+  transition: all ease-in-out 0.3s;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.portfolio .portfolio-wrap .portfolio-info::before {
+  display: block;
+  content: "";
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  top: 35px;
+  left: 35px;
+  border-top: 3px solid #fff;
+  border-left: 3px solid #fff;
+  transition: all 0.5s ease 0s;
+  z-index: 9994;
+}
+
+.portfolio .portfolio-wrap .portfolio-info::after {
+  display: block;
+  content: "";
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  bottom: 35px;
+  right: 35px;
+  border-bottom: 3px solid #fff;
+  border-right: 3px solid #fff;
+  transition: all 0.5s ease 0s;
+  z-index: 9994;
+}
+
+.portfolio .portfolio-wrap .portfolio-info h4 {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 800;
+    font-family: "Nunito", Sans-serif;
+}
+
+.portfolio .portfolio-wrap .portfolio-info p {
+  color: #ffffff;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+}
+
+.portfolio .portfolio-wrap .portfolio-links {
+  text-align: center;
+  z-index: 4;
+}
+
+.portfolio .portfolio-wrap .portfolio-links a {
+  color: #fff;
+  margin: 0 2px;
+  font-size: 28px;
+  display: inline-block;
+  transition: 0.3s;
+}
+.portfolio .portfolio-wrap .portfolio-links  {
+  color: #fff;
+  margin: 0 2px;
+  font-size: 28px;
+  display: inline-block;
+  transition: 0.3s;
+}
+
+.portfolio .portfolio-wrap .portfolio-links :hover {
+    color: #db3155;
+}
+.portfolio .portfolio-wrap .portfolio-links a:hover {
+    color: #db3155;
+}
+
+.portfolio .portfolio-wrap:hover::before {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 1;
+}
+
+.portfolio .portfolio-wrap:hover .portfolio-info {
+  opacity: 1;
+}
+
+.portfolio .portfolio-wrap:hover .portfolio-info::before {
+  top: 15px;
+  left: 15px;
+}
+
+.portfolio .portfolio-wrap:hover .portfolio-info::after {
+  bottom: 15px;
+  right: 15px;
+}
+.homework .box {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    box-shadow: 0px 4px 8px 0px rgb(0 0 0 / 10%);
+    text-align: center;
+    padding: 40px 20px;
+    background: #fff;
+    margin-bottom: 0;
+    border-radius: 18px;
+    webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    transition: 0.5s;
+    margin-bottom: 50px;
+    border: 1px solid #bbbbbb;
+    /* box-shadow: 0px 0px 0px 5px rgb(219 49 85 / 18%); */
+}
+.homework .box:hover {
+    text-decoration: none;
+    box-shadow: 0px 4px 8px 0px rgb(0 0 0 / 30%);
+    background: #db3155;
+}
+.homework .box:hover .icon-fnt {
+    text-decoration: none;
+    background: #ffffff;
+}
+.homework .box:hover i {
+    font-size: 40px;
+    color: #db3155;
+}
+@media (max-width: 767px) {
+.breadcrumbs h2 {
+    font-size: 24px;
+    width: auto;
+	padding: 20px 40px 20px 40px;
+}
+ }
+ @media (max-width: 990px) {
+	 .link .box {
+    margin-bottom: 20px;
+}
+ }
 /*-------------------------------------------------------------- # Footer --------------------------------------------------------------*/
  #footer {
     background: #fb8b24;

@@ -1,126 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-      <meta charset="utf-8">
-      <meta content="width=device-width, initial-scale=1.0" name="viewport">
-      <title>STAR PUBLIC SCHOOL</title>
-      <meta content="" name="description">
-      <meta content="" name="keywords">
-      <!-- Favicons -->
-      <link href="assets/img/favicon.png" rel="icon">
-      <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-      <!-- Google Fonts -->
-      <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&display=swap" rel="stylesheet">
-      <!-- Vendor CSS Files -->
-      <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-      <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-      <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-      <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-      <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-      <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-      <!--Main CSS File -->
-      <link href="assets/css/style.css" rel="stylesheet">
-   </head>
-   <body>
-      <!-- ======= Top Bar ======= -->
-      <section id="topbar" class="d-none d-lg-block">
-         <div class="container d-flex">
-            <div class="contact-info mr-auto">
-               <i class="icofont-phone"></i> +91 9862571258
-               <i class="icofont-envelope"></i><a href="#">cmclvidyabharati@cmcledu.com</a>
-               <i class="icofont-arrow-right"></i><a class="font-weight-bold" href="#">CBSE Mandatory Disclosure</a>
-            </div>
-            <div class="social-links">
-               <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-               <a href="#" class="youtube"><i class="icofont-youtube-play"></i></a>
-            </div>
-         </div>
-      </section>
-      <!-- ======= Header ======= -->
-      <header id="header">
-         <div class="container d-flex">
-            <div class="logo mr-auto">
-               <a href="index.html"><img src="assets/img/logo.jpg" alt="" class="img-fluid"></a>
-            </div>
-            <nav class="nav-menu d-none d-lg-block">
-               <ul>
-                  <li class="active"><a href="index.html">Home</a></li>
-                  <li class="drop-down">
-                     <a href="#">About Us</a>
-                     <ul>
-                        <li><a href="#">School Information</a></li>
-                        <li><a href="#">Mission & Vision</a></li>
-                        <li><a href="#">Principal’s Desk</a></li>
-                        <li><a href="#">Management Desk</a></li>
-                     </ul>
-                  </li>
-                  <li class="drop-down">
-                     <a href="#">Academics</a>
-                     <ul>
-                        <li class="drop-down">
-                           <a href="#">Admission</a>
-                           <ul>
-                              <li><a href="#">Admission Policy</a></li>
-                              <li><a href="#">Admission Form download</a></li>
-                           </ul>
-                        </li>
-                        <li><a href="#">Rules & Regulation</a></li>
-                        <li><a href="#">Fee Structure </a></li>
-                        <li><a href="#">PTM Summary </a></li>
-                        <li><a href="#">Results </a></li>
-                        <li><a href="#">Assessment/Exams</a></li>
-                     </ul>
-                  </li>
-                  <li class="drop-down">
-                     <a href="#">Facilities</a>
-                     <ul>
-                        <li><a href="#">Smart Class</a></li>
-                        <li><a href="#">Sports & Games</a></li>
-                        <li><a href="#">Library</a></li>
-                        <li><a href="#">Computer Education </a></li>
-                        <li class="drop-down">
-                           <a href="#">Laboratories</a>
-                           <ul>
-                              <li><a href="#">Physics Lab</a></li>
-                              <li><a href="#">Chemistry Lab</a></li>
-                              <li><a href="#">Biology Lab</a></li>
-                              <li><a href="#">Maths Lab</a></li>
-                           </ul>
-                        </li>
-                        <li><a href="#">Activity Room</a></li>
-                        <li><a href="#">Science Lab</a></li>
-                     </ul>
-                  </li>
-                  <li><a href="#">Gallery</a></li>
-                  <li class="drop-down">
-                     <a href="#">CBSE Info</a>
-                     <ul>
-                        <li class="drop-down">
-                           <a href="#">Students TC</a>
-                           <ul>
-                              <li><a href="#">Year List </a></li>
-                              <li><a href="#">Student TC Download </a></li>
-                           </ul>
-                        </li>
-                        <li class="drop-down">
-                           <a href="#">CBSE Links</a>
-                           <ul>
-                              <li><a href="#">Redressal Committee</a></li>
-                              <li><a href="#">Link to cbse.nic.in</a></li>
-                              <li><a href="#">Careers</a></li>
-                           </ul>
-                        </li>
-                     </ul>
-                  </li>
-                  <li><a href="#">Contact Us </a></li>
-                  <li><a href="#">Homework</a></li>
-               </ul>
-            </nav>
-            <!-- .nav-menu -->
-         </div>
-      </header>
-      <!-- End Header -->
+
+<?php include('header.php'); ?>
+<!----header-end--->
+
+
+
       <!-- ======= Hero Section ======= -->
       <section id="hero">
          <div class="hero-container">
@@ -240,7 +123,6 @@
          <!-- End faq Section -->
 
          <div class="parallax home-parallax-banner">
-            <h1>Cute Kitten</h1>
          </div>
 
 
@@ -314,7 +196,7 @@
          <section class="link animate__animated animate__fadeIn">
             <div class="container">
                <div class="row">
-                  <div class="col-lg-3">
+                  <div class="col-sm-6 col-lg-3">
                      <a href="#">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-camera"></i></div>
@@ -322,7 +204,7 @@
                         </div>
                      </a>
                   </div>
-                  <div class="col-lg-3">
+                  <div class="col-sm-6 col-lg-3">
                      <a href="#">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-trophy"></i></div>
@@ -330,7 +212,7 @@
                         </div>
                      </a>
                   </div>
-                  <div class="col-lg-3">
+                 <div class="col-sm-6 col-lg-3">
                      <a href="#">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-download"></i></div>
@@ -338,7 +220,7 @@
                         </div>
                      </a>
                   </div>
-                  <div class="col-lg-3">
+                 <div class="col-sm-6 col-lg-3">
                      <a href="#">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-film"></i></div>
@@ -352,74 +234,8 @@
          <!-- End more Section -->
       </main>
       <!-- End #main -->
-      <!-- ======= Footer ======= -->
-      <footer id="footer">
-         <!----
-         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-            <path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"></path>
-            <path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"></path>
-            <path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"></path>
-         </svg>
-         --->
-         
-         <div class="footer-top">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-4 col-md-6 footer-contact">
-                     <div class="footer-logo-block">
-                        <a href="#"><img src="assets/img/logo.jpg" alt="logo" class="footer-logo"></a>
-                     </div>
-                     <p><i class="icofont-phone"></i> <span class="footer-text">+91 9862571258</span> </p>
-                     <p><i class="icofont-envelope"></i><span class="footer-text"><a href="#">cmclvidyabharati@cmcledu.com</a></span> </p>
-                     <p><i class="icofont-google-map"></i>
-                        <span class="footer-text">
-                        CMCL Campus, Lumshnong<br>
-                        P.O. Lumshnong<br>
-                        DIST: East Jaintia Hills, Meghalaya.
-                        </span>
-                     </p>
-                  </div>
-                  <div class="col-lg-4 col-md-6 footer-links">
-                     <h4>Useful Links</h4>
-                     <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">HOME</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">ABOUT US</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">ADMISSION</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">FEE STRUCTURE</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">RULES & REGULATION</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">ASSESSMENT/EXAMS</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">PTM SUMMARY</a></li>
-                     </ul>
-                  </div>
-                  <div class="col-lg-4 col-md-6 footer-info">
-                     <h4>Location</h4>
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.8288205558783!2d92.38324661432677!3d25.175257238769763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375021541bc1e0e5%3A0xf21bfc7cddc3af1e!2sCMCL%20Vidya%20Bharati%20School!5e0!3m2!1sen!2sin!4v1622291716758!5m2!1sen!2sin" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                  </div>
-               </div>
-            </div>
-         </div>
-         </div>
-		 
-		 
-      <div class="copyright">
-        &copy; 2021 Star Public School, Lumshnong, Meghalaya. All Rights Reserved.
-      </div>
-    
-      </footer>
-      <!-- End Footer -->
-      <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-      <!-- Vendor JS Files -->
-      <script src="assets/vendor/jquery/jquery.min.js"></script>
-      <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-      <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-      <script src="assets/vendor/php-email-form/validate.js"></script>
-      <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-      <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-      <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-      <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-      <script src="assets/vendor/venobox/venobox.min.js"></script>
-      <!--Main JS File -->
-      <script src="assets/js/main.js"></script>
-	 
-   </body>
-</html>
+
+
+
+<!----footer---->
+<?php include('footer.php'); ?>
