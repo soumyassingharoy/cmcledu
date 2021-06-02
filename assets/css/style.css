@@ -336,6 +336,7 @@
      right: 0;
      left: 0;
      bottom: 0;
+     display: none !important;
 }
  #hero .carousel-container {
      display: flex;
@@ -350,6 +351,7 @@
 }
  #hero .carousel-content {
      text-align: center;
+     display: none !important;
 }
  #hero h2 {
      color: #fff;
@@ -1410,7 +1412,7 @@ transition: 0.5s;
      background: #FB8B24;
      border-top: 1px solid #FB8B24;
      border-bottom: 1px solid #FB8B24;
-     padding: 70px 0;
+     padding: 40px 0;
 }
  #footer .footer-top .footer-info {
      margin-bottom: 0;
