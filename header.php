@@ -4,7 +4,7 @@
    <head>
       <meta charset="utf-8">
       <meta content="width=device-width, initial-scale=1.0" name="viewport">
-      <title>STAR PUBLIC SCHOOL</title>
+      <title>CMCL Vidya Bharati School</title>
       <meta content="" name="description">
       <meta content="" name="keywords">
       <!-- Favicons -->
@@ -42,7 +42,13 @@
       <header id="header">
          <div class="container d-flex">
             <div class="logo mr-auto">
-               <a href="index.php"><img src="assets/img/logo.jpg" alt="" class="img-fluid"></a>
+               <span class="logo-image">
+                  <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+               </span>
+               <span class="logotext">
+                  <h4 class="logo-text1">CMCL Vidya Bharati School</h4>
+                  <p class="logo-text2">Affiliated to Central Board of Secondary Education, New Delhi</p>
+               </span>
             </div>
             <nav class="nav-menu d-none d-lg-block">
                <ul>

@@ -16,10 +16,10 @@
                <div class="row">
                   <div class="col-lg-6">
                      <div class="icon-box ">
-                        <div class="section-title">
-                           <h2 class="text_sty">Welcome to Star Public School,<br> Lumshnong, Meghalaya</h2>
+                         <div class="section-title">
+                           <h2 class="text_sty">Welcome to <br>CMCL Vidya Bharati School,<br> <span>Lumshnong, Meghalaya</span></h2>
                         </div>
-                        <p><b>Star Public School was founded on 17th April 2005, by Sri Sajjan Bhajanka Chairman of Cement Manufacturing Company Limited (CMCL) manufacturers of the Brand Star Cement.</b> <br>
+                        <p><b>CMCL Vidya Bharati School was founded on 17th April 2005, by Sri Sajjan Bhajanka Chairman of Cement Manufacturing Company Limited (CMCL) manufacturers of the Brand Star Cement.</b> <br>
 
                         With a view to provide quality education to the deserving children of the employees of CMCL as well as the people of the locality. The children from adjoining companies are also benefited by this school. The school is at present a healthy amalgamation of all the sections of the society.</p>
                         <p>The School is located in Lumshnong Village, Jaintia Hills in the campus of CMCL, 0.5 KM from the Shillong – Silchar National Highway no-44.</p>

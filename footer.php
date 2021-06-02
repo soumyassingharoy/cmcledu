@@ -5,7 +5,7 @@
                <div class="row">
                   <div class="col-lg-4 col-md-6 footer-contact">
                      <div class="footer-logo-block">
-                        <a href="#"><img src="assets/img/logo.jpg" alt="logo" class="footer-logo"></a>
+                        <a href="#"><img src="assets/img/logo.png" alt="logo" class="footer-logo"></a>
                      </div>
                      <p><i class="icofont-phone"></i> <span class="footer-text">+91 9862571258</span> </p>
                      <p><i class="icofont-envelope"></i><span class="footer-text"><a href="#">cmclvidyabharati@cmcledu.com</a></span> </p>
@@ -40,7 +40,7 @@
 		 
 		 
       <div class="copyright">
-        &copy; 2021 Star Public School, Lumshnong, Meghalaya. All Rights Reserved.
+        &copy; 2021 CMCL Vidya Bharati School, Lumshnong, Meghalaya. All Rights Reserved.
       </div>
     
       </footer>
