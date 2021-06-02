@@ -51,7 +51,7 @@
                      <a href="javascript:void(0)">About Us</a>
                      <ul>
                         <li><a href="school-information.php">School Information</a></li>
-                        <li><a href="javascript:void(0)">Mission & Vision</a></li>
+                        <li><a href="mission-vision.php">Mission & Vision</a></li>
                         <li><a href="javascript:void(0)">Principal’s Desk</a></li>
                         <li><a href="javascript:void(0)">Management Desk</a></li>
                      </ul>

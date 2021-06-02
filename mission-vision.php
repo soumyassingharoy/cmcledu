@@ -10,6 +10,15 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
+    <nav aria-label="breadcrumb insidepage-breadcrumb">
+      <div class="container">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="#">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Library</li>
+        </ol>
+      </div>
+    </nav>
+
     <!-- ======= About Section ======= -->
          <section class="About animate__animated animate__fadeIn">
             <div class="container">
