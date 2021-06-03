@@ -13,7 +13,7 @@
                   <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
                      <div class="carousel-container">
                         <div class="carousel-content">
-                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>CMCL Vidya Bharati School</h2>
+                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
                            <a href="" class="btn-get-started animate__animated animate__fadeInUp">Contact Us</a>
                         </div>
                      </div>
@@ -22,7 +22,7 @@
                   <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg)">
                      <div class="carousel-container">
                         <div class="carousel-content">
-                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>CMCL Vidya Bharati School</h2>
+                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
                            <a href="" class="btn-get-started animate__animated animate__fadeInUp">Contact Us</a>
                         </div>
                      </div>
@@ -31,7 +31,7 @@
                   <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg)">
                      <div class="carousel-container">
                         <div class="carousel-content">
-                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>CMCL Vidya Bharati School</h2>
+                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
                            <a href="" class="btn-get-started animate__animated animate__fadeInUp">Contact Us</a>
                         </div>
                      </div>
@@ -57,7 +57,7 @@
                   <div class="col-lg-6">
                      <div class="icon-box ">
                         <div class="section-title">
-                           <h2 class="text_sty">Welcome to <br>CMCL Vidya Bharati School,<br> <span>Lumshnong, Meghalaya</span></h2>
+                           <h2 class="text_sty">Welcome to <br>Star Public School,<br> <span>Lumshnong, Meghalaya</span></h2>
                         </div>
                         <p>A resolution of healthy, wealthy and prosperous, cultured civilization and an ideal nation is our ambition. Our endeavour is constantly to make the students a highly cultured citizen, through the destitution for the fulfilment of the above resolution because today’s student is a civilized citizen of the coming generation on whose mighty shoulders the future of a nation depends.</p>
                         <p class="mb-5">We would like to assure thoroughly that we are determined to provide and develop all the facilities and infrastructures needed for activating the future needs of the school.</p>
@@ -137,7 +137,7 @@
                      <img class="card-img-top" src="assets/img/facilities-1.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Smart Classrooms</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, CMCL Vidya Bharati School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
                         <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
@@ -145,7 +145,7 @@
                      <img class="card-img-top" src="assets/img/facilities-2.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Library</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, CMCL Vidya Bharati School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
                         <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
@@ -153,7 +153,7 @@
                      <img class="card-img-top" src="assets/img/facilities-3.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Computer Lab</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, CMCL Vidya Bharati School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
                         <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
@@ -161,7 +161,7 @@
                      <img class="card-img-top" src="assets/img/facilities-1.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Smart Classrooms</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, CMCL Vidya Bharati School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
                         <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
@@ -169,7 +169,7 @@
                      <img class="card-img-top" src="assets/img/facilities-1.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Smart Classrooms</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, CMCL Vidya Bharati School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
                         <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>

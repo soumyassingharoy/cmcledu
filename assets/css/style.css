@@ -154,7 +154,7 @@
     text-decoration: none;
     color: #0F0F0F;
     font-family: "Nunito", Sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 800;
     text-transform: uppercase;
     flex-wrap: nowrap;
@@ -242,6 +242,7 @@
      background: #fff;
      box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
      transition: ease all 0.3s;
+     width: 250px;
 }
  .nav-menu .drop-down:hover > ul {
      opacity: 1;
@@ -601,7 +602,7 @@
      background-color: #db3155;
      color: #fff;
 }
- section.About p {
+ section.about p {
     color: #5F5F5F;
     font-family: 'Nunito', sans-serif;
     font-size: 17px;
@@ -1642,16 +1643,16 @@ transition: 0.5s;
     background: url(../img/divider.png) no-repeat bottom center;
 }
 
-.About .section-title{
+.about .section-title{
     text-align: left;
 }
-.About .section-title .text_sty{
+.about .section-title .text_sty{
     text-align: left;
     color: #0F0F0F;
     background: url(../img/divider.png) no-repeat bottom left;
 }
 
-.About .section-title .text_sty span{
+.about .section-title .text_sty span{
     color: #5F5F5F;
     font-family: 'Nunito', sans-serif;
     font-size: 24px;
@@ -1685,10 +1686,6 @@ transition: 0.5s;
     text-decoration: none;
 }
 
- @media (max-width: 767px) {
-
- }
-
  .home-parallax-banner{
     background-image: url("../img/child-banner.jpg");
     min-height: 300px; 
@@ -1696,4 +1693,218 @@ transition: 0.5s;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+ }
+
+
+.insidepage-breadcrumb{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    background-color: #e9ecef;
+}
+
+.insidepage-breadcrumb .breadcrumb-item.active{
+    background-color: transparent;
+}
+
+
+.inside-page-content{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+}
+.inside-page-content .text-box{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    padding-bottom: 40px;
+}
+.inside-page-content .text-box .section-title .text_sty{
+    font-size: 28px;
+}
+
+
+.about-staff-vbs-block .text-box{
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 0 0 20px 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+}
+
+.about-staff-vbs-block .text-box .header-text{
+    width: 100%;
+    display: flex;
+    padding: 15px;
+    background: #ccc;
+    color: #0F0F0F;
+    font-family: "Nunito", Sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.about-staff-vbs-block  .details-block{
+    width: 100%;
+    display: flex;
+    padding: 15px;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    height: 250px;
+    overflow: auto;
+}
+
+.about-staff-vbs-block  .details-block .details-list{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+.about-staff-vbs-block  .details-block .details-list li{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+.about-staff-vbs-block  .details-block .details-list a{
+    text-decoration: none;
+    color: inherit;
+}
+.about-staff-vbs-block  .details-block .details-list .list-text-box{
+    width: 100%;
+    padding: 8px 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #0F0F0F;
+    font-family: "Nunito", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    transition: all 0.4s;
+}
+
+.about-staff-vbs-block  .details-block .details-list a:hover .list-text-box{
+    text-decoration: none;
+    color: #000;
+    background-color: #cccccc;
+}
+
+.about-staff-vbs-block  .details-block .details-list .list-text-box .icon{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+    padding-right: 8px;
+}
+
+
+
+ /*////////responsive-designfixed/////*/
+@media screen and (min-width 1130px) and (max-width 1230px) {
+    #header .logo .logo-text1{
+        font-size: 16px;
+    }
+
+    #header .logo .logo-text2{
+        font-size: 7px;
+    }
+    .nav-menu a{
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width 768px) and (max-width 1129pxpx) {
+    #header .logo .logo-text1{
+        font-size: 14px;
+    }
+
+    #header .logo .logo-text2{
+        font-size: 6px;
+    }
+    .nav-menu a{
+        font-size: 13px;
+    }
+    #header .container {
+        max-width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    #header .container {
+        max-width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    section {
+        padding: 40px 0;
+    }
+    .section-title .text_sty{
+        font-size: 28px;
+    }
+    .ab-shape1.position-absolute{
+        right: 0;
+    }
+
+    #footer .footer-top .footer-contact {
+        margin-bottom: 20px;
+    }
+
+    #header .logo .logo-text1{
+        font-size: 16px;
+    }
+
+    #header .logo .logo-text2{
+        font-size: 7px;
+    }
+
+    .mobile-nav .drop-down ul{
+        background: #fff;
+    }
+
+    .vbox-container img {
+        max-width: 100%;
+        height: auto;
+        width: 100%;
+    }
+    .vbox-content{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-wrap: wrap;
+    }
+
+
  }

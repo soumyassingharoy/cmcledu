@@ -40,7 +40,7 @@
 		 
 		 
       <div class="copyright">
-        &copy; 2021 CMCL Vidya Bharati School, Lumshnong, Meghalaya. All Rights Reserved.
+        &copy; 2021 Star Public School, Lumshnong, Meghalaya. All Rights Reserved.
       </div>
     
       </footer>
