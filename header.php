@@ -66,37 +66,37 @@
                      <a href="javascript:void(0)">Academics</a>
                      <ul>
                         <li class="drop-down">
-                           <a href="javascript:void(0)">Admission</a>
+                           <a href="admission.php">Admission</a>
                            <ul>
-                              <li><a href="javascript:void(0)">Admission Policy</a></li>
-                              <li><a href="javascript:void(0)">Admission Form download</a></li>
+                              <li><a href="admission-policy.php">Admission Policy</a></li>
+                              <li><a href="admission.php">Admission Form download</a></li>
                            </ul>
                         </li>
-                        <li><a href="javascript:void(0)">Rules & Regulation</a></li>
-                        <li><a href="javascript:void(0)">Fee Structure </a></li>
-                        <li><a href="javascript:void(0)">PTM Summary </a></li>
-                        <li><a href="javascript:void(0)">Results </a></li>
-                        <li><a href="javascript:void(0)">Assessment/Exams</a></li>
+                        <li><a href="rules-regulation.php">Rules & Regulation</a></li>
+                        <li><a href="fee-structure.php">Fee Structure</a></li>
+                        <li><a href="ptm-summary.php">PTM Summary</a></li>
+                        <li><a href="results.php">Results</a></li>
+                        <li><a href="assessment-exams.php">Assessment / Exams</a></li>
                      </ul>
                   </li>
                   <li class="drop-down">
                      <a href="javascript:void(0)">Facilities</a>
                      <ul>
-                        <li><a href="javascript:void(0)">Smart Class</a></li>
-                        <li><a href="javascript:void(0)">Sports & Games</a></li>
-                        <li><a href="javascript:void(0)">Library</a></li>
-                        <li><a href="javascript:void(0)">Computer Education </a></li>
+                        <li><a href="smart-class.php">Smart Class</a></li>
+                        <li><a href="sports-games.php">Sports & Games</a></li>
+                        <li><a href="library.php">Library</a></li>
+                        <li><a href="computer-education.php">Computer Education</a></li>
                         <li class="drop-down">
-                           <a href="javascript:void(0)">Laboratories</a>
+                           <a href="laboratories.php">Laboratories</a>
                            <ul>
-                              <li><a href="javascript:void(0)">Physics Lab</a></li>
-                              <li><a href="javascript:void(0)">Chemistry Lab</a></li>
-                              <li><a href="javascript:void(0)">Biology Lab</a></li>
-                              <li><a href="javascript:void(0)">Maths Lab</a></li>
+                              <li><a href="physics-lab.php">Physics Lab</a></li>
+                              <li><a href="chemistry-lab.php">Chemistry Lab</a></li>
+                              <li><a href="biology-lab.php">Biology Lab</a></li>
+                              <li><a href="maths-lab.php">Maths Lab</a></li>
                            </ul>
                         </li>
-                        <li><a href="javascript:void(0)">Activity Room</a></li>
-                        <li><a href="javascript:void(0)">Science Lab</a></li>
+                        <li><a href="activity-room.php">Activity Room</a></li>
+                        <li><a href="science-lab.php">Science Lab</a></li>
                      </ul>
                   </li>
                   <li <?php if($active == "portfolio.php" || $active == '') { echo "class='active'"; } ?>><a href="portfolio.php">Gallery</a></li>
@@ -104,18 +104,18 @@
                      <a href="javascript:void(0)">CBSE Info</a>
                      <ul>
                         <li class="drop-down">
-                           <a href="javascript:void(0)">Students TC</a>
+                           <a href="tc-year-list.php">Students TC</a>
                            <ul>
-                              <li><a href="javascript:void(0)">Year List </a></li>
-                              <li><a href="javascript:void(0)">Student TC Download </a></li>
+                              <li><a href="tc-year-list.php">Year List </a></li>
+                              <li><a href="student-tc-download.php">Student TC Download </a></li>
                            </ul>
                         </li>
                         <li class="drop-down">
                            <a href="javascript:void(0)">CBSE Links</a>
                            <ul>
-                              <li><a href="javascript:void(0)">Redressal Committee</a></li>
-                              <li><a href="javascript:void(0)">Link to cbse.nic.in</a></li>
-                              <li><a href="javascript:void(0)">Careers</a></li>
+                              <li><a href="redressal-committee.php">Redressal Committee</a></li>
+                              <li><a target="_blank" href="https://www.cbse.gov.in/">Link to cbse.nic.in</a></li>
+                              <li><a href="careers.php">Careers</a></li>
                            </ul>
                         </li>
                      </ul>

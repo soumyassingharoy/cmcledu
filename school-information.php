@@ -205,18 +205,6 @@
          <!-- End About Section -->
 
 
-         <section class="about-staff-vbs-block animate__animated animate__fadeIn">
-           <div class="container">
-
-            
-
-
-
-
-           </div>
-         </section>
-
-
 
 
   </main><!-- End #main -->

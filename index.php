@@ -138,7 +138,7 @@
                      <div class="card-body">
                         <h5 class="card-title">Smart Classrooms</h5>
                         <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
-                        <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <a href="smart-class.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
                   <div class="card">
@@ -146,7 +146,7 @@
                      <div class="card-body">
                         <h5 class="card-title">Library</h5>
                         <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
-                        <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <a href="library.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
                   <div class="card">
@@ -154,7 +154,7 @@
                      <div class="card-body">
                         <h5 class="card-title">Computer Lab</h5>
                         <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
-                        <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <a href="computer-education.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
                   <div class="card">
@@ -162,7 +162,7 @@
                      <div class="card-body">
                         <h5 class="card-title">Smart Classrooms</h5>
                         <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
-                        <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <a href="smart-class.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
                   <div class="card">
@@ -170,7 +170,7 @@
                      <div class="card-body">
                         <h5 class="card-title">Smart Classrooms</h5>
                         <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
-                        <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <a href="smart-class.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
                </div>

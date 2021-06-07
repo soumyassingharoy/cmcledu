@@ -20,13 +20,27 @@
                   <div class="col-lg-4 col-md-6 footer-links">
                      <h4>Useful Links</h4>
                      <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">HOME</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">ABOUT US</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">ADMISSION</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">FEE STRUCTURE</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">RULES & REGULATION</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">ASSESSMENT/EXAMS</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">PTM SUMMARY</a></li>
+                        <li><i class="bx bx-chevron-right"></i> 
+                          <a href="index.php">HOME</a>
+                        </li>
+                        <li><i class="bx bx-chevron-right"></i> 
+                          <a href="school-information.php">ABOUT US</a>
+                        </li>
+                        <li><i class="bx bx-chevron-right"></i> 
+                          <a href="admission.php">ADMISSION</a>
+                        </li>
+                        <li><i class="bx bx-chevron-right"></i> 
+                          <a href="fee-structure.php">FEE STRUCTURE</a>
+                        </li>
+                        <li><i class="bx bx-chevron-right"></i> 
+                          <a href="rules-regulation.php">RULES & REGULATION</a>
+                        </li>
+                        <li><i class="bx bx-chevron-right"></i> 
+                          <a href="assessment-exams.php">ASSESSMENT / EXAMS</a>
+                        </li>
+                        <li><i class="bx bx-chevron-right"></i> 
+                          <a href="ptm-summary.php">PTM SUMMARY</a>
+                        </li>
                      </ul>
                   </div>
                   <div class="col-lg-4 col-md-6 footer-info">
