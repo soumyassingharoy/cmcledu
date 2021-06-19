@@ -87,7 +87,7 @@
                            <p>Email: cmclvidyabharati@cmcledu.com</p>
                         </div>
                         <div class="read-more">
-                           <a href="#" class="button-link">Read more</a>
+                           <a href="admission.php" class="button-link">Read more</a>
                         </div>
                      </div>
                   </div>
@@ -108,12 +108,18 @@
                      <div class="icon-box-1 icon-box-3">
                         <h3>VBS Glimpse</h3>
                         <div class="text-block">
-                           <p class="box_wrap">Glimpses – June 2019</p>
-                           <p class="box_wrap">Glimpses – May 2019</p>
-                           <p class="box_wrap">Glimpses – April 2019</p>
+                           <a href="assets/pdf/March-Glimpses-2021.pdf" target="_blank">
+                              <p class="box_wrap">March Glimpses 2021</p>
+                           </a>
+                           <a href="assets/pdf/SPS-APRIL-GLIMPSES-2021-2022.pdf" target="_blank">
+                              <p class="box_wrap">SPS APRIL GLIMPSES, 2021</p>
+                           </a>
+                           <a href="assets/pdf/STAR-PUBLIC-SCHOOL-MAY-GLIMPSES-2021.pdf" target="_blank">
+                              <p class="box_wrap">STAR PUBLIC SCHOOL-MAY GLIMPSES, 2021</p>
+                           </a>
                         </div>
                         <div class="read-more">
-                           <a href="#" class="button-link">Read more</a>
+                           <a href="school-information.php#staff-glimpse-details" class="button-link">Read more</a>
                         </div>
                      </div>
                   </div>

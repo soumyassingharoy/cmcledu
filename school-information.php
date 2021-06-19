@@ -50,7 +50,7 @@
                </div>                    
             </div>
 
-            <div class="about-staff-vbs-block">
+            <div class="about-staff-vbs-block" id="staff-glimpse-details">
 
 
               <div class="row">

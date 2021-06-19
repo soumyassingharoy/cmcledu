@@ -45,11 +45,16 @@
                           <p>This institution is determined to provide quality education to the students of this remote and far flung region of the country in an atmosphere conducive to good learning. We aim to provide the best facilities at par with the best in the country.
                             <br><br>
                           <b>Towards achieving that goal, we resolve to –</b><br>
-                          • Bring out and hone the students’ talents using the latest educational technologies and methodology.<br>
-                          • Provide a fertile ground for the physical, mental and spiritual growth of the children entrusted to our care.<br>
-                          • Inculcate the sense of responsibility and morality amongst the students to make them reliable and competent nation builders.<br>
-                          • Bring out and develop the best human values and qualities to make them socially adjustable and ideal citizens.<br>
-                          • To inspire students to continuously strive to acquire knowledge not merely to pass examinations but to use this knowledge to enrich their own lives and also the lives of those around them.</p>
+                          • Bring out and hone the students’ talents using the latest educational technologies and methodology.<br><br>
+
+                          • Provide a fertile ground for the physical, mental and spiritual growth of the children entrusted to our care.<br><br>
+
+                          • Inculcate the sense of responsibility and morality amongst the students to make them reliable and competent nation builders.<br><br>
+
+                          • Bring out and develop the best human values and qualities to make them socially adjustable and ideal citizens.<br><br>
+                          
+                          • To inspire students to continuously strive to acquire knowledge not merely to pass examinations but to use this knowledge to enrich their own lives and also the lives of those around them.
+                          </p>
                        </div>
                     </div>
                     <div class="col-sm-5">
