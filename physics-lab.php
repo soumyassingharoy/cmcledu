@@ -31,7 +31,7 @@
                          <div class="section-title">
                            <h2 class="text_sty">Physics Lab</h2>
                         </div>
-                        <p>To provide in depth knowledge on wide –ranging theories on physics, CMCL Vidya Bharati School has a well-designed Physics Laboratory which provides facilities to the students to conduct various activities, experiments and projects. <br><br>
+                        <p>To provide in depth knowledge on wide –ranging theories on physics, <b>Star Public School</b> has a well-designed Physics Laboratory which provides facilities to the students to conduct various activities, experiments and projects. <br><br>
 
                         The lab has equipment and apparatuses which can be used to understand various concepts and methods of measurements with greater accuracy, wave formation and propagation, phenomena involving reflection and refraction of light, properties of matter, electricity, magnetic effects of electric current, semiconductor devices etc.<br><br>
 

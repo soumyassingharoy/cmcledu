@@ -31,14 +31,18 @@
                          <div class="section-title">
                            <h2 class="text_sty">Computer Education</h2>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br><br>
+                        <p>It is important to have a basic understanding of computer technology. Regardless of the career choice, we can benefit from knowledge of computer. This can also lead to career advancement opportunities. Computers are popping up in places and professions that may seem unlikely. So Star Public School accords itself with the importance of computers and hence the curriculum is based on the total development of computer knowledge in the students. <br><br>
 
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        Star Public School prides itself on having a fully equipped state – of- the-art computer lab, where each student has an individual Pentium IV computer with LCD monitors to work on. The networking enables the sharing of files and programs. The lab is fitted with a  projector and a wall screen, which facilitates projecting the main monitor’s image on to the large screen. All in all, it is dream place for a child to explore the possibilities of the wonder that is IT Education.<br><br>
+
+                        The curriculum for the students has been set up in such a way that it develops a strong foundation of computer knowledge. Students have computer classes right from the beginning of their schooling i.e from Grade I whereby they are taught how to work on a computer in a play way method. They are given educational software which are very interactive and are related to their learning in the class. This makes their learning very interesting. There is advancement in the educational programs as their grades ascend. The higher grades are now ready to be working with Python, Complete MS-Office, Windows 7 Operating System, Adobe Photoshop, Adobe Flash and internet. The syllabus is based on the CBSE and we have approval to offer IT as Vocational subject.</p>
 
                      </div>
                   </div>
                   <div class="col-lg-6">
-                    <img src="assets/img/computer-education.jpeg" class="img-responsive img-rounded" alt="" >
+                    <img src="assets/img/computer-education1.jpg" class="img-responsive img-rounded" alt="" >
+                    <img src="assets/img/computer-education2.jpg" class="img-responsive img-rounded" alt="" >
+                    
 					          <div class="ab-shape1 position-absolute"></div>
 					          <div class="ab-shape2 position-absolute"></div>
                   </div>

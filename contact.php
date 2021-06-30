@@ -22,7 +22,7 @@
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
               <h3>Our Address</h3>
-              <p>CMCL Campus, Lumshnong
+              <p>Star Cement Campus, Lumshnong
 P.O. Lumshnong
 DIST: East Jaintia Hills, Meghalaya.</p>
             </div>
@@ -32,7 +32,7 @@ DIST: East Jaintia Hills, Meghalaya.</p>
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>cmclvidyabharati@cmcledu.com</p>
+              <p>35267@cbseshiksha.in</p>
             </div>
           </div>
 

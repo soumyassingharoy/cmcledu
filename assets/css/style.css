@@ -790,6 +790,9 @@ p.mt-7 {
 img.img-responsive.img-rounded {
     border-radius: 12px;
 }
+.inside-page-content img.img-responsive.img-rounded {
+        margin-bottom: 15px;
+}
  .clients .card {
      box-shadow: 0px 0px 10px -32px rgb(0 0 0 / 14%);
      transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -2218,8 +2221,70 @@ transition: 0.5s;
     left: 10px
 }
 
+.achivements-titel{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: "Nunito", Sans-serif;
+    color: #0F0F0F;
+    font-weight: 800;
+    webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    transition: 0.5s;
+    text-align: left;
+    padding-bottom: 30px;
+}
 
+.school-image-block{
+    width: 100%;
+    padding: 10px 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    text-align: center;
+}
 
+.school-image-block img{
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.smc-member-list{
+    width: 100%;
+    display: inline-block;
+    padding: 0 0 20px 0;
+    margin: 0;    
+}
+
+.smc-member-list .box{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: #111111;
+}
+
+.smc-member-list .box i{
+    display: inline-block;
+    padding-right: 15px;
+    color: #111111;
+}
+
+.smc-member-list .box h4 {
+    padding-top: 0;
+    font-family: "Nunito", Sans-serif;
+    color: #0F0F0F;
+    font-weight: 800;
+    webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    transition: 0.5s;
+}
 
 
  /*////////responsive-designfixed/////*/

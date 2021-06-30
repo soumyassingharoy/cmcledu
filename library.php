@@ -31,9 +31,9 @@
                          <div class="section-title">
                            <h2 class="text_sty">Library</h2>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br><br>
+                        <p>The <b>Star Public School</b>  Library has well equipped library , with over 5,000 volumes which include books, videos and subscription to Newspaper and periodicals which are added to continually. The Prime objective of Library is to make it as Learning Resource Canter. The library also provides students and teachers with a range of reference books, encyclopaedia, journals and newspapers and internet facilities to enrich their classroom activities and knowledge. The Learning Centre with its enlarged Library and separate Reading Rooms has a Resource Room with  audio-visual centre and a full sized projection screen. <br><br>
 
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        Well known writers are invited regularly to read from their works. All new books are arranged on a display table in the library for a month and reviews put up on the Notice Board. Our specially trained Librarian organizes the Library Week with book readings, designing  book marks and writing book reviews. To encourage reading for pleasure Dear or Drop Everything And Read programme is followed on a weekly basis in all classes from three to twelve.</p>
 
                      </div>
                   </div>

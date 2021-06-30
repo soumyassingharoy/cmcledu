@@ -31,9 +31,7 @@
                          <div class="section-title">
                            <h2 class="text_sty">Science Lab</h2>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br><br>
-
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        <p>Our Integrated Science Lab is a capacious room which caters to the experimental minds of all our students up to Middle School. Laboratory Activities and Experiments engage student’s mind which helps them to acquire skills, knowledge and confidence. The laboratory is equipped with the latest equipment as per CBSE curriculum where students carry out experiments in an Innovative and Inspiring environment and Learn by Doing. The Lab is equipped to handle all the needs of Primary and Middle School Students and engages them into Experimental learning from an early age.  Students understand the difference between theory and application and it helps them in improvising their approach towards the subject.</p>
 
                      </div>
                   </div>

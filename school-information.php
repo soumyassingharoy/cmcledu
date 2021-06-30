@@ -31,10 +31,7 @@
                          <div class="section-title">
                            <h2 class="text_sty">Welcome to <br>Star Public School,<br> <span>Lumshnong, Meghalaya</span></h2>
                         </div>
-                        <p><b>Star Public School was founded on 17th April 2005, by Sri Sajjan Bhajanka Chairman of Cement Manufacturing Company Limited (CMCL) manufacturers of the Brand Star Cement.</b> <br>
-
-                        With a view to provide quality education to the deserving children of the employees of CMCL as well as the people of the locality. The children from adjoining companies are also benefited by this school. The school is at present a healthy amalgamation of all the sections of the society.</p>
-                        <p>The School is located in Lumshnong Village, Jaintia Hills in the campus of CMCL, 0.5 KM from the Shillong – Silchar National Highway no-44.</p>
+                        <p><b>Star Public School was founded on 17th April 2005, by Sri SajjanBhajanka Chairman of Brand Star Cement.</b> with a view to provide quality education to the deserving children of the employees of SCL as well as the people from the local community. The children from adjoining companies are also benefited by Star Public school. The school is at present a healthy amalgamation of all the sections of the society. The School is located in Lumshnong Village, Jaintia Hills in the campus of SCL, 0.5 KM from the Shillong – Silchar National Highway no-44. Star Public School has got good infrastructure with all facilities such as Big Playgrounds, spacious classroom, well equipped Library, Science, Computer and Mathematics Lab.</p>
 
                      </div>
                   </div>
@@ -45,9 +42,12 @@
                   </div>
                 </div>
                 <div class="text-box">
-                 <p>The School started with a small unit of three rooms. At present, the School has shifted to the new school building with twenty four class rooms with all the facilities catering to the needs of the people of the locality fruitfully.</p>
-                 <p>A new administrative Building adjacent to it with all facilities of a child centred education is on the verge of completion. For the upliftment of the village people and to go a step forward in the direction of right to education the authority of CMCL has decided to give the books free of cost to the village children and special concession on tuition fee.</p>
-               </div>                    
+                 <!--<p>The School started with a small unit of three rooms. At present, the School has shifted to the new school building with twenty four class rooms with all the facilities catering to the needs of the people of the locality fruitfully.</p>
+                 <p>A new administrative Building adjacent to it with all facilities of a child centred education is on the verge of completion. For the upliftment of the village people and to go a step forward in the direction of right to education the authority of CMCL has decided to give the books free of cost to the village children and special concession on tuition fee.</p>--->
+               </div> 
+               <div class="school-image-block">
+                  <img src="assets/img/fit-india-school.jpg" class="img-responsive img-rounded" alt="" >
+                </div>                   
             </div>
 
             <div class="about-staff-vbs-block" id="staff-glimpse-details">
@@ -62,7 +62,7 @@
                       <div class="details-block">
                         <ul class="details-list">
 
-                          <li><a href="http://cmcledu.com/wp-content/uploads/2018/07/Update-Academic-Staff-Details-13-07-18.xlsx" target="_blank">
+                          <li><a href="assets/pdf/TeachingStafflist.xlsx" target="_blank">
                               <div class="list-text-box">
                                 <span class="icon"><i class="icofont-file-pdf"></i></span>
                                 <span>Academic Staff Details</span>
@@ -70,7 +70,7 @@
                             </a>
                           </li>
 
-                          <li><a href="http://cmcledu.com/wp-content/uploads/2018/07/Update-Administrative-Staff-Details.xlsx" target="_blank">
+                          <li><a href="assets/pdf/NonTeachingStafflist.xlsx" target="_blank">
                               <div class="list-text-box">
                                 <span class="icon"><i class="icofont-file-pdf"></i></span>
                                 <span>Administrative Staff Details </span>
@@ -88,110 +88,38 @@
                  <div class="col-sm-6">    
                   <div class="text-box">
 
-                    <h2 class="header-text">VBS Glimpse</h2>
+                    <h2 class="header-text">SPS Glimpse</h2>
 
                     <div class="details-block">
                       <ul class="details-list">
 
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
+                        <li><a  href="assets/pdf/MAY-GLIMPSES-2021.pdf" target="_blank">
                             <div class="list-text-box">
                               <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
+                              <span>SPS Glimpse – May 2021</span>
                             </div>
                           </a>
                         </li>
 
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/November-Glimpses-2020.pdf" target="_blank">
+                        <li><a  href="assets/pdf/APRIL-GLIMPSES-2021-2022.pdf" target="_blank">
                             <div class="list-text-box">
                               <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – November 2020</span>
+                              <span>SPS Glimpse – April 2021</span>
                             </div>
                           </a>
                         </li>
 
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/October-Glimpses-2020.pdf" target="_blank">
+                        <li><a  href="assets/pdf/MarchGlimpses2021.pdf" target="_blank">
                             <div class="list-text-box">
                               <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – October 2020</span>
+                              <span>SPS Glimpse – March 2021</span>
                             </div>
                           </a>
                         </li>
 
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/July.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – July 2020</span>
-                            </div>
-                          </a>
-                        </li>
+                        
 
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                        <li><a  href="http://cmcledu.com/wp-content/uploads/2019/05/DECEMBER-GLIMPSES-2020.pdf" target="_blank">
-                            <div class="list-text-box">
-                              <span class="icon"><i class="icofont-file-pdf"></i></span>
-                              <span>VBS Glimpse – December 2020</span>
-                            </div>
-                          </a>
-                        </li>
-
-                      
-
-
+                
                       </ul>
                     </div>
                   </div>

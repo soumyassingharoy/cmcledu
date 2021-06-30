@@ -31,7 +31,7 @@
                            <div class="section-title">
                              <h2 class="text_sty">Mission Statement</h2>
                           </div>
-                          <p>The School is located in the Lumshnong Village of East Jaintia Hills District of Meghalaya surrounded by lush greenery. We are devoted to our children to impart value based education. We will ensure 100% literacy in the nearby community, utilizing school resources by 2022, by taking initiatives to celebrate reading week, organizing workshop related to child psychology, arithmetic/ mathematics/ science week, promoting peer learning by forming reading clubs and activities related to learning by doing.</p>
+                          <p><b>Star Public School</b> is located in the Lumshnong Village of East Jaintia Hills District of Meghalaya surrounded by lush greenery. We are devoted to our children to impart value based education. We will ensure quality education by utilizing school resources and by taking initiatives to celebrate reading week, organizing workshop related to child psychology, arithmetic/ mathematics/ science week, promoting peer learning by forming reading clubs and activities related to learning by doing.</p>
                        </div>
                     </div>
                  </div>

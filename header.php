@@ -29,12 +29,12 @@
          <div class="container d-flex">
             <div class="contact-info mr-auto">
                <i class="icofont-phone"></i> +91 9862571258
-               <i class="icofont-envelope"></i><a href="javascript:void(0)">cmclvidyabharati@cmcledu.com</a>
+               <i class="icofont-envelope"></i><a href="javascript:void(0)">35267@cbseshiksha.in</a>
                <i class="icofont-arrow-right"></i><a class="font-weight-bold" href="javascript:void(0)">CBSE Mandatory Disclosure</a>
             </div>
             <div class="social-links">
-               <a href="javascript:void(0)" class="facebook"><i class="icofont-facebook"></i></a>
-               <a href="javascript:void(0)" class="youtube"><i class="icofont-youtube-play"></i></a>
+               <a href="https://www.facebook.com/Star-Public-School-397684007486767" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
+               <a href="https://www.youtube.com/channel/UC-bGAShPp9yn3yhPV20JVCA" target="_blank" class="youtube"><i class="icofont-youtube-play"></i></a>
             </div>
          </div>
       </section>

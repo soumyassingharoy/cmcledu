@@ -34,7 +34,7 @@
                            <div class="section-title">
                              <h2 class="text_sty">PARENT-TEACHER MEETING (PTM)</h2>
                           </div>
-                          <p>The ‘Parents-Teachers Meeting’ is an opportunity for parents to meet the class and subject teachers of their wards on a one to one basis. It is also an occasion to interact with the school Principal.  We plan to have seven PTMs in an academic year. Please refer to the school calendar (Page No.12) for dates regarding the same.  However, the parents are most welcome to meet the teachers on any working day only with prior appointment. Parents are welcome to meet the Principal on 1st and 3rd SATURDAY of every month between 12 noon to 2 pm with prior appointment. <br><br>
+                          <p>The ‘Parents-Teachers Meeting’ is an opportunity for parents to meet the class and subject teachers of their wards on a one to one basis. It is also an occasion to interact with the school Principal.  We plan to have seven PTMs in an academic year. Please refer to the school calendar for dates regarding the same.  However, the parents are most welcome to meet the teachers on any working day only with prior appointment. Parents are welcome to meet the Principal on 1st and 3rd SATURDAY of every month between 12 noon to 2 pm with prior appointment. <br><br>
 
                           Parent Teachers Association Meeting (PTM)
                           </p>
@@ -48,6 +48,7 @@
                     </div>
                 </div>
 
+                <!----
                 <div class="tabile-block">
 
                             <div class="table-responsive">
@@ -97,7 +98,7 @@
                               </table>
                             </div>  
                            
-                          </div>
+                </div> --->
                                 
             </div>
 

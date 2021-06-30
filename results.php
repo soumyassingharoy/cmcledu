@@ -21,7 +21,7 @@
 
 
     <!-- ======= About Section ======= -->
-         <section class="about animate__animated animate__fadeIn">
+         <section class="homework animate__animated animate__fadeIn">
             <div class="container">
 
               
@@ -29,11 +29,43 @@
                 <div class="text-box">
 
                   <div class="section-title">
-                     <h2 class="text_sty">RESULTS CBSE Class X 2017-18</h2>
+                     <h2 class="text_sty">RESULTS CBSE 2017-18, 2018-19- 2019-20, Class XII – 2018-19 & 2019-2020.</h2>
+                  </div>
+
+                  <div class="row">
+
+                    <div class="col-sm-6 col-lg-4">
+                       <a href="assets/pdf/RESULT-FOR-CLASS-X-2017-18.xlsx" target="_blank">
+                          <div class="box">
+                             <div class="icon-fnt"><i class="icofont-users-alt-5"></i></div>
+                             <h4>CBSE RESULT FOR <br>CLASS - X 2017-18</h4>
+                          </div>
+                       </a>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-4">
+                       <a href="assets/pdf/ResultCLASS-X.xlsx" target="_blank">
+                          <div class="box">
+                             <div class="icon-fnt"><i class="icofont-users-alt-5"></i></div>
+                             <h4>SUBJECT WISE CLASS X <br>QI COMPARISION</h4>
+                          </div>
+                       </a>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-4">
+                       <a href="assets/pdf/CLASS-XII.xlsx" target="_blank">
+                          <div class="box">
+                             <div class="icon-fnt"><i class="icofont-users-alt-5"></i></div>
+                             <h4>SUBJECT-WISE CLASS XII <br>QI COMPARISION</h4>
+                          </div>
+                       </a>
+                    </div>
+
+
                   </div>
 
                   <!----tabile--->
-                  <div class="tabile-block">
+                  <!---<div class="tabile-block">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped" style="max-width: 600px;">
                           
@@ -53,12 +85,12 @@
 
                         </table>
                     </div>  
-                  </div> 
+                  </div> --->
                   <!----tabile--->
 
 
                   <!----tabile--->
-                  <div class="tabile-block">
+                  <!----<div class="tabile-block">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped" style="max-width: 600px;">
                           
@@ -91,11 +123,11 @@
 
                         </table>
                     </div>  
-                  </div> 
+                  </div> ---> 
                   <!----tabile--->
 
                   <!----tabile--->
-                  <div class="tabile-block">
+                  <!---<div class="tabile-block">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped" style="max-width: 600px;">
                           
@@ -137,9 +169,9 @@
 
                         </table>
                     </div>  
-                  </div> 
+                  </div> --> 
                   <!----tabile--->
-                  <h3 style="text-align: left;"><strong>3 students secured more than 90%</strong></h3>
+                  <!---<h3 style="text-align: left;"><strong>3 students secured more than 90%</strong></h3>--->
               </div>
 
               </div>

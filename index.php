@@ -9,8 +9,10 @@
          <div class="hero-container">
             <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
                <div class="carousel-inner" role="listbox">
+                  
+                  
                   <!-- Slide 1 -->
-                  <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
+                  <div class="carousel-item active" style="background: url(assets/img/slide/slide-2.jpg)">
                      <div class="carousel-container">
                         <div class="carousel-content">
                            <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
@@ -18,8 +20,9 @@
                         </div>
                      </div>
                   </div>
+
                   <!-- Slide 2 -->
-                  <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg)">
+                  <div class="carousel-item " style="background: url(assets/img/slide/slide-1.jpg)">
                      <div class="carousel-container">
                         <div class="carousel-content">
                            <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
@@ -27,6 +30,7 @@
                         </div>
                      </div>
                   </div>
+
                   <!-- Slide 3 -->
                   <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg)">
                      <div class="carousel-container">
@@ -36,6 +40,50 @@
                         </div>
                      </div>
                   </div>
+
+                  <!-- Slide 4 -->
+                  <div class="carousel-item" style="background: url(assets/img/slide/slide-4.jpg)">
+                     <div class="carousel-container">
+                        <div class="carousel-content">
+                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
+                           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Contact Us</a>
+                        </div>
+                     </div>
+                  </div>
+
+                  <!-- Slide 5 -->
+                  <div class="carousel-item" style="background: url(assets/img/slide/slide-5.jpg)">
+                     <div class="carousel-container">
+                        <div class="carousel-content">
+                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
+                           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Contact Us</a>
+                        </div>
+                     </div>
+                  </div>
+
+                  <!-- Slide 6 -->
+                  <div class="carousel-item" style="background: url(assets/img/slide/slide-6.jpg)">
+                     <div class="carousel-container">
+                        <div class="carousel-content">
+                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
+                           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Contact Us</a>
+                        </div>
+                     </div>
+                  </div>
+
+                  <!-- Slide 7 -->
+                  <div class="carousel-item" style="background: url(assets/img/slide/slide-7.jpg)">
+                     <div class="carousel-container">
+                        <div class="carousel-content">
+                           <h2 class="animate__animated animate__fadeInDown">Welcome to <br>Star Public School</h2>
+                           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Contact Us</a>
+                        </div>
+                     </div>
+                  </div>
+
+
+
+
                </div>
                <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
                <span class="carousel-control-prev-icon icofont-rounded-left" aria-hidden="true"></span>
@@ -84,7 +132,7 @@
                            <p>New and Readmission will be start from 2nd April 2021 onward from Nursery to Class XI.</p><br>
                            <p><b>More Information</b></p>
                            <p>Call: +91 98625 71258</p>
-                           <p>Email: cmclvidyabharati@cmcledu.com</p>
+                           <p>Email: 35267@cbseshiksha.in</p>
                         </div>
                         <div class="read-more">
                            <a href="admission.php" class="button-link">Read more</a>
@@ -95,7 +143,7 @@
                      <div class="icon-box-1 icon-box-2">
                         <h3>Latest Notice</h3>
                         <div class="text-block">
-                        <p class="max-hgt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                        <p class="max-hgt">Achievements Education World Ranking certificate & National Award for Star Public School & Teachers in the year 2019 </p>
                         </div>
 
                         <div class="read-more">
@@ -143,7 +191,7 @@
                      <img class="card-img-top" src="assets/img/facilities-1.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Smart Classrooms</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School plans to collaborate with leading organizations in field of Digital Smart Boards.</p>
                         <a href="smart-class.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
@@ -151,7 +199,7 @@
                      <img class="card-img-top" src="assets/img/facilities-2.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Library</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text">The Star Public School Library has well equipped library , with over 5,000 volumes which include books, videos and subscription to Newspaper and periodicals which are added to continually.</p>
                         <a href="library.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
@@ -159,26 +207,78 @@
                      <img class="card-img-top" src="assets/img/facilities-3.png" alt="">
                      <div class="card-body">
                         <h5 class="card-title">Computer Lab</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
+                        <p class="card-text"> Star Public School accords itself with the importance of computers and hence the curriculum is based on the total development of computer knowledge in the students.</p>
                         <a href="computer-education.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
                   <div class="card">
-                     <img class="card-img-top" src="assets/img/facilities-1.png" alt="">
+                     <img class="card-img-top" src="assets/img/facilities-4.png" alt="">
                      <div class="card-body">
-                        <h5 class="card-title">Smart Classrooms</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
-                        <a href="smart-class.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <h5 class="card-title">Sports & Games</h5>
+                        <p class="card-text">At Star Public School, we are providing different types of sports to the student. It includes outdoor activities, indoor sports and yoga session.</p>
+                        <a href="sports-games.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
+
                   <div class="card">
-                     <img class="card-img-top" src="assets/img/facilities-1.png" alt="">
+                     <img class="card-img-top" src="assets/img/facilities-5.png" alt="">
                      <div class="card-body">
-                        <h5 class="card-title">Smart Classrooms</h5>
-                        <p class="card-text">To make learning an exciting and enduring experience for the students, Star Public School has collaborated with Educomp and has equipped with Digital Smart Boards.</p>
-                        <a href="smart-class.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <h5 class="card-title">Physics Lab</h5>
+                        <p class="card-text">To provide in depth knowledge on wide –ranging theories on physics, Star Public School has a well-designed Physics Laboratory which provides facilities to the students to conduct various activities, experiments and projects.</p>
+                        <a href="physics-lab.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
                      </div>
                   </div>
+
+                  
+                  <div class="card">
+                     <img class="card-img-top" src="assets/img/facilities-6.png" alt="">
+                     <div class="card-body">
+                        <h5 class="card-title">Biology Lab</h5>
+                        <p class="card-text">The Biology lab is the hub of many experiments, self-discoveries and experimentation in the true sense of the word. Group projects as well as individual experiments are carried out with enthusiasm in the tastefully designed lab.</p>
+                        <a href="biology-lab.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                     </div>
+                  </div>
+
+                  <div class="card">
+                     <img class="card-img-top" src="assets/img/facilities-5.png" alt="">
+                     <div class="card-body">
+                        <h5 class="card-title">Chemistry Lab</h5>
+                        <p class="card-text">The Chemistry lab is equipped with all the apparatuses and equipment’s needed till the senior secondary level.</p>
+                        <a href="chemistry-lab.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                     </div>
+                  </div>
+
+
+
+                  <div class="card">
+                     <img class="card-img-top" src="assets/img/facilities-7.png" alt="">
+                     <div class="card-body">
+                        <h5 class="card-title">Maths Lab</h5>
+                        <p class="card-text">The Math Lab in our school is a place where we find a collection of games, puzzles, mathematical models, teaching aids and other materials for carrying out activities and for learning mathematics in a way which is not only fun but informative too.</p>
+                        <a href="maths-lab.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                     </div>
+                  </div>
+
+                  <div class="card">
+                     <img class="card-img-top" src="assets/img/facilities-8.png" alt="">
+                     <div class="card-body">
+                        <h5 class="card-title">Activity Room</h5>
+                        <p class="card-text">we believe education based on learning by doing. We are providing beautiful infrastructure in the form of Activity Room to the preprimary students (Nursery to UKG).</p>
+                        <a href="maths-lab.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                     </div>
+                  </div>
+
+                  <div class="card">
+                     <img class="card-img-top" src="assets/img/facilities-5.png" alt="">
+                     <div class="card-body">
+                        <h5 class="card-title">Science Lab</h5>
+                        <p class="card-text">Our Integrated Science Lab is a capacious room which caters to the experimental minds of all our students up to Middle School. Laboratory Activities and Experiments engage student’s mind which helps them to acquire skills, knowledge and confidence.</p>
+                        <a href="science-lab.php" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                     </div>
+                  </div>
+
+
+
                </div>
             </div>
          </section>
@@ -203,7 +303,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-6 col-lg-3">
-                     <a href="#">
+                     <a href="portfolio.php">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-camera"></i></div>
                            <h4>Photo Gallery</h4>
@@ -211,15 +311,15 @@
                      </a>
                   </div>
                   <div class="col-sm-6 col-lg-3">
-                     <a href="#">
+                     <a href="achievements.php">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-trophy"></i></div>
-                           <h4>Achivements</h4>
+                           <h4>Achievements</h4>
                         </div>
                      </a>
                   </div>
                  <div class="col-sm-6 col-lg-3">
-                     <a href="#">
+                     <a href="homework.php">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-download"></i></div>
                            <h4>Download</h4>

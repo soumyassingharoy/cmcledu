@@ -34,7 +34,7 @@
                         </div>
                         <p>Education is a continuous process and so is the evaluation of academic and co-curricular performance.</p>
 
-                        <p>At CMCL VBS, the performance of Students from Class Nursery to II (Primary school) and Class III to X are evaluated based on their class room activities/participation in discussions/ assignment/ Individual projects, Practical etc. and periodical assessment&nbsp; so that they may be well prepared to face the challenges of the Board’s examinations. At the end of the term students are awarded with a detailed report on scholastic and co-scholastic achievement of the children.</p>
+                        <p><b>Star Public School</b> the performance of Students from Class Nursery to II (Primary school) and Class III to X are evaluated based on their class room activities/participation in discussions/ assignment/ Individual projects, Practical etc. and periodical assessment&nbsp; so that they may be well prepared to face the challenges of the Board’s examinations. At the end of the term students are awarded with a detailed report on scholastic and co-scholastic achievement of the children.</p>
                      </div>
                   </div>
                   <div class="col-lg-5">

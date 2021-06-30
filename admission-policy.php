@@ -36,11 +36,11 @@
 
               <p>
                 <b>STAR PUBLIC SCHOOL, LUMSHNONG <br>
-                (Regd. No.-1330008)</b>
+                (Affiliation No.-1330008)</b>
               </p>
 
               <div class="policy-tabile-block">
-                  <h2 class="header-text">NEW ADMISSION RULES/POLICY FOR THE SESSION-2018-19</h2>
+                  <h2 class="header-text">NEW ADMISSION RULES/POLICY FOR THE SESSION-2021-22</h2>
 
                   <div class="tabile-block">
 
@@ -168,11 +168,11 @@
                               <td width="55">13</td>
                               <td width="72">XI
                               <span>Humanities</span></td>
-                              <td width="180">16 years or above 16 years</td>
-                              <td width="186">Written Test-100 marks</td>
-                              <td width="150"><span>English-30</span>
+                              <td width="180">16 years or above</td>
+                              <td width="186">Class X passed from a recognized board</td>
+                              <td width="150"><!--<span>English-30</span>
                               <span>Social Science- 60</span>
-                              <span>General Science- 10</span></td>
+                              <span>General Science- 10</span>--></td>
                               </tr>
                             </tbody>
                       </table>
@@ -187,7 +187,7 @@
                   </div>
                   
                   <p>
-                    <b>1. Selling of Admission Form from 2 nd April, 2018 onwards Price-Rs.100/-</b> <br><br>
+                    <b>1. Selling of Admission Form from 2 nd April, 2021 onwards Price-Rs.100/-</b> <br><br>
 
                     <b>2. Documents to be submitted along with Admission form are as follows:</b><br>
 
@@ -198,9 +198,9 @@
                     (v) 04 copies of Colour passport size photos<br>
                     (vi) Caste certificate (if any)<br><br>
 
-                    <b>3. Date(s) of Admission Test- & 4. Date(s) Result Declaration – Time (9.00 AM- 12:00 NOON)</b><br>
+                    <b>3. Admission Test Time (9.00 AM- 12:00 NOON) </b><br>
 
-                    (i) 07/04/2018 - (i) 10/04/2018<br>
+                    <!---(i) 07/04/2018 - (i) 10/04/2018<br>
 
                     (ii) 21/04/2018 - (ii) 24/04/2018<br>
 
@@ -208,7 +208,7 @@
 
                     (iv) 19/05/2018 - (iv) 22/05/2018<br>
 
-                    (v) 02/06/2018 - (v) 04/06/2018<br><br>
+                    (v) 02/06/2018 - (v) 04/06/2018<br><br>---->
                      
                   </p>
 
@@ -217,10 +217,11 @@
                   </div>
 
                   <p>
-                    <b>(i) Parents are strictly advised to go through all the above mentioned dates.</b>
-                    <br><br>
+                    
+                    <!--<b>(i) Parents are strictly advised to go through all the above mentioned dates.</b>
+                    <br><br>-->
 
-                    <b>(ii) Procedure for admission is as follows:-</b><br>
+                    <b>(i) Procedure for admission is as follows:-</b><br>
                     Collection of Admission Form from the Office <br>
                     => Submission of Filled up Admission form to the School Office Visit to School for Admission Test <br>
                     => Publication of Result in School Notice Board <br>
@@ -238,14 +239,14 @@
                   </div>
 
                   <p>
-                    1. Date of Re-admission – <b>0 2/04/2018 (Monday)</b><br>
+                    <!--1. Date of Re-admission – <b>0 2/04/2018 (Monday)</b><br>
 
-                    2. Commencement of Class – <b>04/04/2018 (Wednesday)</b><br><br>
+                    2. Commencement of Class – <b>04/04/2018 (Wednesday)</b><br><br> --->
 
                     <b>Notes:</b><br>
                     <ul class="bluate-list-text">
                       <li><b>Parents are requested to avail their leave as per above given schedule.</b></li>
-                      <li><b>Books and Stationaries will be available from 02nd April, 2018.</b></li>
+                      <li><b>Books and Stationaries will be available from 02nd April, 2021.</b></li>
                       <li>Parents are requested to show their Admission receipt issued by School Accounts Dept. to collect books and stationaries from the School store.</li>
                       <li>Copy of fee structure will be available in school notice board.</li>
                     </ul>
