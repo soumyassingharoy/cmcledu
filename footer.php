@@ -45,7 +45,7 @@
                   </div>
                   <div class="col-lg-4 col-md-6 footer-info">
                      <h4>Location</h4>
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.8288205558783!2d92.38324661432677!3d25.175257238769763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375021541bc1e0e5%3A0xf21bfc7cddc3af1e!2sCMCL%20Vidya%20Bharati%20School!5e0!3m2!1sen!2sin!4v1622291716758!5m2!1sen!2sin" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.8265870444657!2d92.3842456144839!3d25.175332638766342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375021a2a9d7213b%3A0x7928507561bddb41!2sStar%20Cement%20Ltd.!5e0!3m2!1sen!2sin!4v1625224084646!5m2!1sen!2sin" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                   </div>
                </div>
             </div>
