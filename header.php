@@ -60,6 +60,8 @@
                         <li><a href="mission-vision.php">Mission & Vision</a></li>
                         <li><a href="principal-desk.php">Principal’s Desk</a></li>
                         <li><a href="management-desk.php">Management Desk</a></li>
+                        <li><a href="smc-member.php">School Management Committee</a></li>
+                        
                      </ul>
                   </li>
                   <li class="drop-down">
@@ -73,6 +75,12 @@
                            </ul>
                         </li>
                         <li><a href="rules-regulation.php">Rules & Regulation</a></li>
+
+                        <li><a href="the-foundational-wing.php">The Foundational Wing</a></li>
+                        <li><a href="the-preparatory-wing.php">The Preparatory Wing</a></li>
+                        <li><a href="the-middle-wing.php">The Middle Wing</a></li>
+                        <li><a href="the-secondary-wing.php">The Secondary Wing (IX and X)</a></li>
+
                         <li><a href="fee-structure.php">Fee Structure</a></li>
                         <li><a href="ptm-summary.php">PTM Summary</a></li>
                         <li><a href="results.php">Results</a></li>
@@ -100,9 +108,11 @@
                      </ul>
                   </li>
                   <li <?php if($active == "portfolio.php" || $active == '') { echo "class='active'"; } ?>><a href="portfolio.php">Gallery</a></li>
+
                   <li class="drop-down">
                      <a href="javascript:void(0)">CBSE Info</a>
                      <ul>
+                        <li><a href="mandatory-disclosure.php">Mandatory Disclosure</a></li>
                         <li class="drop-down">
                            <a href="tc-year-list.php">Students TC</a>
                            <ul>
@@ -115,13 +125,16 @@
                            <ul>
                               <li><a href="redressal-committee.php">Redressal Committee</a></li>
                               <li><a target="_blank" href="https://www.cbse.gov.in/">Link to cbse.nic.in</a></li>
-                              <li><a href="careers.php">Careers</a></li>
+                              <!---<li><a href="careers.php">Careers</a></li>--->
                            </ul>
                         </li>
                      </ul>
                   </li>
+
+                  <li <?php if($active == "careers.php" || $active == '') { echo "class='active'"; } ?>><a href="careers.php">Careers</a></li>
+
                   <li <?php if($active == "contact.php" || $active == '') { echo "class='active'"; } ?>><a href="contact.php">Contact Us </a></li>
-                  <li <?php if($active == "homework.php" || $active == '') { echo "class='active'"; } ?>><a href="homework.php">Homework</a></li>
+                  <!---<li <?php if($active == "homework.php" || $active == '') { echo "class='active'"; } ?>><a href="homework.php">Homework</a></li>-->
                </ul>
             </nav>
             <!-- .nav-menu -->

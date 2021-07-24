@@ -140,7 +140,7 @@
                             <li>Working knowledge of Computer (Microsoft Word and Power Point)</li>
                             <li>Proficiency in spoken and written English</li>
                             </ol>
-                            <p><strong>Interested applicants can email their resume to <a href="mailto:cmclvidyabharati@cmcledu.com">cmclvidyabharati@cmcledu.com</a></strong></p>
+                            <p><strong>Interested applicants can email their resume to <a href="mailto:35267@cbseshiksha.in">35267@cbseshiksha.in</a></strong></p>
                </div> 
                                     
             </div>

@@ -187,7 +187,7 @@
                   </div>
                   
                   <p>
-                    <b>1. Selling of Admission Form from 2 nd April, 2021 onwards Price-Rs.100/-</b> <br><br>
+                    <b>1. Selling of Admission Form from 2nd April onwards every year.</b> <br><br>
 
                     <b>2. Documents to be submitted along with Admission form are as follows:</b><br>
 
@@ -246,7 +246,7 @@
                     <b>Notes:</b><br>
                     <ul class="bluate-list-text">
                       <li><b>Parents are requested to avail their leave as per above given schedule.</b></li>
-                      <li><b>Books and Stationaries will be available from 02nd April, 2021.</b></li>
+                      <li><b>Books and Stationaries will be available from 02nd April, onwards.</b></li>
                       <li>Parents are requested to show their Admission receipt issued by School Accounts Dept. to collect books and stationaries from the School store.</li>
                       <li>Copy of fee structure will be available in school notice board.</li>
                     </ul>

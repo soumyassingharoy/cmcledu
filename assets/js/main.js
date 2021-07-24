@@ -144,6 +144,22 @@
     }
   });
 
+  //more
+  $(document).ready(function () {
+    $(".more-content").hide();
+    $(".show_hide").on("click", function () {
+        var txt = $(".more-content").is(':visible') ? 'Read More' : 'Read Less';
+        $(".show_hide").text(txt);
+        $(this).next('.more-content').toggle(200);
+    });
+    $(".show_hide").click(function(){
+      $(".more-content").toggle();
+    });
+
+});
+
+
+
   // jQuery counterUp
   $('[data-toggle="counter-up"]').counterUp({
     delay: 10,

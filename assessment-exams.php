@@ -30,7 +30,7 @@
 
                      <div class="text-box">
                          <div class="section-title">
-                           <h2 class="text_sty">Assessment & Evaluation System</h2>
+                           <h2 class="text_sty">Assessment Exam details from Academic group</h2>
                         </div>
                         <p>Education is a continuous process and so is the evaluation of academic and co-curricular performance.</p>
 

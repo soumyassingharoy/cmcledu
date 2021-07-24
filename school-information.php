@@ -29,9 +29,15 @@
                   <div class="col-lg-6">
                      <div class="text-box">
                          <div class="section-title">
-                           <h2 class="text_sty">Welcome to <br>Star Public School,<br> <span>Lumshnong, Meghalaya</span></h2>
+                          <h2 class="text_sty">School Information</h2>
+
+                           <!--<h2 class="text_sty">Welcome to <br>Star Public School,<br> <span>Lumshnong, Meghalaya</span></h2>-->
                         </div>
-                        <p><b>Star Public School was founded on 17th April 2005, by Sri SajjanBhajanka Chairman of Brand Star Cement.</b> with a view to provide quality education to the deserving children of the employees of SCL as well as the people from the local community. The children from adjoining companies are also benefited by Star Public school. The school is at present a healthy amalgamation of all the sections of the society. The School is located in Lumshnong Village, Jaintia Hills in the campus of SCL, 0.5 KM from the Shillong – Silchar National Highway no-44. Star Public School has got good infrastructure with all facilities such as Big Playgrounds, spacious classroom, well equipped Library, Science, Computer and Mathematics Lab.</p>
+                        <p><b>Star Public School</b> , established on 17th April 2005, by Sri SajjanBhajanka ,an eminent industrialist envisioned to provide equitable access to the highest-quality education for all learners regardless of social or economic background.<br><br>
+
+                        The school is perfect example of healthy amalgamation of all the sections of the society with a vision of promoting &strengthening educational development of local community. Under one such initiative, we are making special efforts by extending financial assistance through 100%reimbursement on Books Cost & 50% on Tuition Fees for two children from local community.<br><br>
+
+                        Nestled in the lap of nature, the school provides an ideal atmosphere for learners to acquire and imbibe skills necessary for their physical, mental, social and intellectual development. The School is located in Lumshnong Village, Jaintia Hills in the campus of SCL, 0.5 KM from the Shillong – Silchar National Highway no-44.</p>
 
                      </div>
                   </div>
@@ -54,7 +60,7 @@
 
 
               <div class="row">
-                 <div class="col-sm-6">    
+                 <div class="col-sm-12">    
                     <div class="text-box">
 
                      <h2 class="header-text">Staff Details</h2>
@@ -62,7 +68,7 @@
                       <div class="details-block">
                         <ul class="details-list">
 
-                          <li><a href="assets/pdf/TeachingStafflist.xlsx" target="_blank">
+                          <li><a href="academic-staff-details.php" target="_blank">
                               <div class="list-text-box">
                                 <span class="icon"><i class="icofont-file-pdf"></i></span>
                                 <span>Academic Staff Details</span>
@@ -70,7 +76,7 @@
                             </a>
                           </li>
 
-                          <li><a href="assets/pdf/NonTeachingStafflist.xlsx" target="_blank">
+                          <li><a href="administrative-staff-details.php" target="_blank">
                               <div class="list-text-box">
                                 <span class="icon"><i class="icofont-file-pdf"></i></span>
                                 <span>Administrative Staff Details </span>
@@ -85,7 +91,7 @@
                     </div>
                  </div>
 
-                 <div class="col-sm-6">    
+                 <!----<div class="col-sm-6">    
                   <div class="text-box">
 
                     <h2 class="header-text">SPS Glimpse</h2>
@@ -123,7 +129,11 @@
                       </ul>
                     </div>
                   </div>
-                 </div>
+                 </div>--->
+
+
+
+
              </div>
             </div>
 

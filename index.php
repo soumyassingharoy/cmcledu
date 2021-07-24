@@ -105,11 +105,26 @@
                   <div class="col-lg-6">
                      <div class="icon-box ">
                         <div class="section-title">
-                           <h2 class="text_sty">Welcome to <br>Star Public School,<br> <span>Lumshnong, Meghalaya</span></h2>
+                           <h2 class="text_sty">Welcome to <br><b>Star Public School</b></h2>
                         </div>
-                        <p>A resolution of healthy, wealthy and prosperous, cultured civilization and an ideal nation is our ambition. Our endeavour is constantly to make the students a highly cultured citizen, through the destitution for the fulfilment of the above resolution because today’s student is a civilized citizen of the coming generation on whose mighty shoulders the future of a nation depends.</p>
-                        <p class="mb-5">We would like to assure thoroughly that we are determined to provide and develop all the facilities and infrastructures needed for activating the future needs of the school.</p>
-                        <a href="" class="btn-get-started-yello animate__animated animate__fadeInUp">Read More</a>
+                        <p><b>“A resolution of healthy, wealthy and prosperous, cultured civilization and an ideal nation is our ambition”</b> <br><br>
+
+                        <b>Star Public School</b> constantly endeavours to make the students highly cultured citizens through the destitution for the fulfilment of the above resolution because today’s student is a civilized citizen of the coming generation on whose mighty shoulders the future of a nation depends.<br><br>
+
+                        <b>Star Public School</b> is affiliated to Central Board of Secondary Education (CBSE) which  provides modern state -of –the-art infrastructure in Meghalaya with aesthetically designed spacious classrooms, well equipped Science, Computer and Mathematics Labroraties, Multi Purpose Auditorium,Playground etc..... We are  ranked India's #10, Meghalaya's #1 & Lumshong's #1 in Design Thinking Leaders  in the Education World Grand Jury Awards 2020-21.</p>
+
+                        <div class="more-content">
+                           <p>
+                              <b>Star Public School</b>’ is Ranked No.1 in India under the Top CBSE Schools –Parameter wise for ‘Innovative Teaching’ in The India`s School Merit Awards, 2020 .<br><br>
+
+                              
+                              We at, Star Public School are dedicated towards ensuring that the curriculum, teaching methods and the infrastructure are upgraded to keep pace with the rapid changes taking place in the education field. The institution creates suitable atmosphere for comprehensive development of students with highly effective teachers, focussed on improving student outcomes through quality teaching, coaching and mentoring.
+                           </p>
+                        </div>
+                        <div class="more-textblock-button">
+                           <a href="javascript:void(0)" class="btn-get-started-yello animate__animated animate__fadeInUp show_hide" data-content="toggle-text">Read More</a>
+                        </div>
+
                      </div>
                   </div>
                   <div class="col-lg-6 mt-5">
@@ -129,7 +144,7 @@
                      <div class="icon-box-1">
                         <h3>Admission OPEN</h3>
                         <div class="text-block">
-                           <p>New and Readmission will be start from 2nd April 2021 onward from Nursery to Class XI.</p><br>
+                           <p>New and Readmission will be start from 2nd April onward from Nursery to Class XI.</p><br>
                            <p><b>More Information</b></p>
                            <p>Call: +91 98625 71258</p>
                            <p>Email: 35267@cbseshiksha.in</p>
@@ -154,16 +169,20 @@
                   </div>
                   <div class="col-lg-4">
                      <div class="icon-box-1 icon-box-3">
-                        <h3>VBS Glimpse</h3>
+                        <h3>Glimpses</h3>
                         <div class="text-block">
-                           <a href="assets/pdf/March-Glimpses-2021.pdf" target="_blank">
+                           <a href="june-Glimpses2021.php" target="_blank">
+                              <p class="box_wrap">June Glimpses 2021</p>
+                           </a>
+
+                           <a href="may-Glimpses2021.php" target="_blank">
+                              <p class="box_wrap">May Glimpses 2021</p>
+                           </a>
+                           <a href="april-Glimpses2021.php" target="_blank">
+                              <p class="box_wrap">April Glimpses 2021</p>
+                           </a>
+                           <a href="march-Glimpses2021.php" target="_blank">
                               <p class="box_wrap">March Glimpses 2021</p>
-                           </a>
-                           <a href="assets/pdf/SPS-APRIL-GLIMPSES-2021-2022.pdf" target="_blank">
-                              <p class="box_wrap">SPS APRIL GLIMPSES, 2021</p>
-                           </a>
-                           <a href="assets/pdf/STAR-PUBLIC-SCHOOL-MAY-GLIMPSES-2021.pdf" target="_blank">
-                              <p class="box_wrap">STAR PUBLIC SCHOOL-MAY GLIMPSES, 2021</p>
                            </a>
                         </div>
                         <div class="read-more">
@@ -293,7 +312,7 @@
                         <h2 class="text_sty">More @ SPS</h2>
                      </div>
 					 
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                     <p>Our dedicated team of educators committed for education excellence to empower every student with value based quality education to realize his/her fullest potential to achieve intellectual, academic and technological skills that continuously motivates all individuals to excel.</p>
                   </div>
                </div>
             </div>
@@ -302,7 +321,7 @@
          <section class="link animate__animated animate__fadeIn">
             <div class="container">
                <div class="row">
-                  <div class="col-sm-6 col-lg-3">
+                  <div class="col-sm-6 col-lg-4">
                      <a href="portfolio.php">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-camera"></i></div>
@@ -310,7 +329,7 @@
                         </div>
                      </a>
                   </div>
-                  <div class="col-sm-6 col-lg-3">
+                  <div class="col-sm-6 col-lg-4">
                      <a href="achievements.php">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-trophy"></i></div>
@@ -318,15 +337,15 @@
                         </div>
                      </a>
                   </div>
-                 <div class="col-sm-6 col-lg-3">
+                 <!---<div class="col-sm-6 col-lg-3">
                      <a href="homework.php">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-download"></i></div>
                            <h4>Download</h4>
                         </div>
                      </a>
-                  </div>
-                 <div class="col-sm-6 col-lg-3">
+                  </div>--->
+                 <div class="col-sm-6 col-lg-4">
                      <a href="#">
                         <div class="box">
                            <div class="icon-fnt"><i class="icofont-film"></i></div>
